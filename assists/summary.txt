@@ -1,0 +1,37 @@
+MakeTrip – AI-Powered Website Task
+Prompt Engineering Internship | Future Interns (May 2025 Cohort)
+Intern ID: FIT/MAY25/PE371
+Intern: Debanga Guria
+
+---
+
+Task Overview:
+I completed Task 2 of the internship, which involved building an AI-powered website using no-code tools. The goal was to create a fully functional website that integrates AI for design, content generation, and user personalization.
+
+Platform Used:
+Wix AI (or Webflow AI / WordPress AI)
+
+Key Features Implemented:
+- AI-generated content and layout
+- Smart contact form with automation
+- Personalized UX flow
+- Fully responsive design
+
+Tools:
+- Wix AI 
+- Figma (for design planning)
+- Zapier (for backend automation)
+- Canva (for banner visuals)
+
+Outcome:
+A live, interactive website demonstrating real-world AI integration in a no-code development environment.
+
+Live Website:
+https://squadsyntax72.wixstudio.com/travel-company
+
+Acknowledgment:
+Thanks to Future Interns for providing this hands-on opportunity to work on real-world prompt engineering use-cases with a focus on AI integration.
+
+---
+
+#AI #PromptEngineering #NoCode #FutureInterns #DebangaGuria #GlowCharge #UXDesign #Automation
